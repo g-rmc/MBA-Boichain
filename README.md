@@ -2,7 +2,7 @@
 
 > **Blockchain e Criptoeconomia (RWA & DeFi) aplicados à rastreabilidade sanitária e socioambiental da cadeia de carne bovina no Brasil.**
 
-![BoiChain Banner](https://images.unsplash.com/photo-1544330206-8d19e917d0c7?q=80&w=1200&auto=format&fit=crop) *(Imagem ilustrativa)*
+![BoiChain](static/home.png)
 
 ---
 
@@ -11,10 +11,9 @@
 Este projeto foi desenvolvido como trabalho final para a disciplina de **Criptoativos, Blockchain & Smart Contracts** (MBA). 
 A proposta responde ao desafio de selecionar um caso de uso real de Blockchain (baseado no conceito de *Supply Chain / Food Safety* - ex: IBM Food Trust) e adaptá-lo à realidade brasileira, analisando seus meios de implementação, benefícios e desafios (Governança, Segurança e Infraestrutura).
 
-A entrega deste trabalho foi materializada através de uma [Landing Page Interativa](https://SEU-USUARIO.github.io/NOME-DO-REPOSITORIO/) (hospedada via GitHub Pages), ilustrando a visão arquitetônica, a jornada do bloco e a economia do token de forma visual e didática.
+A entrega deste trabalho foi materializada através de uma [Landing Page Interativa](https://g-rmc.github.io/MBA-Boichain/) (hospedada via GitHub Pages), ilustrando a visão arquitetônica, a jornada do bloco e a economia do token de forma visual e didática.
 
-👉 **[ACESSAR A APRESENTAÇÃO ONLINE (LANDING PAGE)](https://SEU-USUARIO.github.io/NOME-DO-REPOSITORIO/)** 👈
-*(Lembre-se de substituir o link acima pelo link real do seu GitHub Pages)*
+👉 **[ACESSAR A APRESENTAÇÃO ONLINE (LANDING PAGE)](https://g-rmc.github.io/MBA-Boichain/)** 👈
 
 ---
 
